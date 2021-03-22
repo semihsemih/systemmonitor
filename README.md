@@ -4,7 +4,7 @@ Tool for providing you all information about your device (hardware, operating sy
 ## Run
 
 ```
-go get /github.com/semihsemih/systemmonitor
+go get github.com/semihsemih/systemmonitor
 go run main.go
 ```
 
